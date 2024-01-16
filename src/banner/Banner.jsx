@@ -1,6 +1,6 @@
 import React, { useEffect } from "react";
 import "./banner.css";
-import Video from "./Bg.mp4";
+import Video from "./bg.mp4";
 import "animate.css";
 import Typed from "typed.js";
 import Logo from './Savera Ansari-logos/Savera Ansari-logos_white.png';
